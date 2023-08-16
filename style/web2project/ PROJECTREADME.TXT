@@ -6,10 +6,10 @@ Original README:
 
 README
 
-Date: 17 April 2004
+Date: 16-08-2023
 
 WHAT IS THIS?
-   This is a "style" pack for web2Project, an open source project management tool.
+   This is a " calendarstyle" pack for web2Project, an open source project management tool.
    See:  http://www.web2project.net/
    This "style" has been tested against version 1.02.
 
